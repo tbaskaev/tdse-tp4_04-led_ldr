@@ -1,7 +1,7 @@
 <img width="1126" height="346" alt="image" src="https://github.com/user-attachments/assets/b7201532-bf52-4139-a428-71320e0605a2" />
 
 ## Datos
-63488|3196
+63488,3196
 61440,3192
 59392,3192
 57344,3188
